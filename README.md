@@ -20,14 +20,14 @@ Potential  Flow
 6. Device B’s pump activates, delivering sugar water
 
 Hardware Requirements
-Microcontroller: ESP32 (for Wi-Fi capability)
-Actuators: 5V Submersible Water Pump or Peristaltic Pump
-Lighting: WS2812B (NeoPixel) LED Ring
-Power: 9V Battery or 5V DC Wall Adapter
-Sensors: HC-SR04 Ultrasonic Sensor (for presence detection)
-Analog pH Meter Kit: For biological monitoring
-DS18B20 Waterproof Temp Sensor: To ensure SCOBY stability
-Biological: SCOBY starter culture, black tea, and cane sugar
+- Microcontroller: ESP32 (for Wi-Fi capability)
+- Actuators: 5V Submersible Water Pump or Peristaltic Pump
+- Lighting: WS2812B (NeoPixel) LED Ring
+- Power: 9V Battery or 5V DC Wall Adapter
+- Sensors: HC-SR04 Ultrasonic Sensor (for presence detection)
+- Analog pH Meter Kit: For biological monitoring
+- DS18B20 Waterproof Temp Sensor: To ensure SCOBY stability
+- Biological: SCOBY starter culture, black tea, and cane sugar
 
 Future Implementation
 - Automatically triggers "hunger" lights if friends haven't spoken in a set number of days
